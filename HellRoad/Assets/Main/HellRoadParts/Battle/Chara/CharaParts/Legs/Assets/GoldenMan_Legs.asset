@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: GoldenMan_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 12
+    name: "\u91D1\u8272\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 5
+      - type: 2
+        value: 10
+      - type: 3
+        value: 1
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: -5896522159524288324, guid: 029f1ab5e707ee84aadd53396f036bd9, type: 3}
+    - {fileID: -4150237627394994698, guid: 029f1ab5e707ee84aadd53396f036bd9, type: 3}
+    - {fileID: 4316281958818648501, guid: 029f1ab5e707ee84aadd53396f036bd9, type: 3}
+    rightLegs:
+    - {fileID: -5175570017641255400, guid: 029f1ab5e707ee84aadd53396f036bd9, type: 3}
+    - {fileID: -7662146077437726667, guid: 029f1ab5e707ee84aadd53396f036bd9, type: 3}
+    - {fileID: 4569349596015356116, guid: 029f1ab5e707ee84aadd53396f036bd9, type: 3}
+    leftLegs_2_Seams: {x: 0, y: -33.5}
+    leftLegs_3_Seams: {x: -1, y: -24}
+    rightLegs_2_Seams: {x: 6, y: -34}
+    rightLegs_3_Seams: {x: 6, y: -24}
+    legLength: 70.5

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 3e6a9baf329c0b64faa29de7b2c78f61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7939887013402156006
+    second: LightningGod_0
+  - first:
+      213: 8501017074754947544
+    second: LightningGod_1
+  - first:
+      213: -1683494111082943593
+    second: LightningGod_2
+  - first:
+      213: -4384742077383712221
+    second: LightningGod_3
+  - first:
+      213: -798377683176357666
+    second: LightningGod_4
+  - first:
+      213: 7154313532437612344
+    second: LightningGod_5
+  - first:
+      213: 4578519822546819460
+    second: LightningGod_6
+  - first:
+      213: -5192646639526818212
+    second: LightningGod_7
+  - first:
+      213: 5526145096792198638
+    second: LightningGod_8
+  - first:
+      213: 6175823621231161443
+    second: LightningGod_9
+  - first:
+      213: 5886079964605202642
+    second: LightningGod_10
+  - first:
+      213: 2408055494337003785
+    second: LightningGod_11
+  - first:
+      213: -1092170099194104575
+    second: LightningGod_12
+  - first:
+      213: -8807813008318735298
+    second: LightningGod_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LightningGod_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 86
+        height: 111
+      alignment: 9
+      pivot: {x: 0.34302327, y: 0.04054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb929edb25203e60800000000000000
+      internalID: 7939887013402156006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 71
+        height: 62
+      alignment: 9
+      pivot: {x: 0.41549295, y: 0.45967743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d98c4a3dfda9f570800000000000000
+      internalID: 8501017074754947544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 151
+        width: 24
+        height: 52
+      alignment: 9
+      pivot: {x: 0.39583334, y: 0.91346157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6077860703a8e0800000000000000
+      internalID: -1683494111082943593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 109
+        width: 18
+        height: 32
+      alignment: 9
+      pivot: {x: 0.30555555, y: 0.953125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e5dddf444623c0800000000000000
+      internalID: -4384742077383712221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 83
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7105263, y: 0.85294116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08ca52ab79be4f0800000000000000
+      internalID: -798377683176357666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 151
+        width: 24
+        height: 52
+      alignment: 9
+      pivot: {x: 0.39583334, y: 0.91346157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c6b8a04a394360800000000000000
+      internalID: 7154313532437612344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 109
+        width: 16
+        height: 33
+      alignment: 9
+      pivot: {x: 0.34375, y: 0.92424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489dcf3458b2a8f30800000000000000
+      internalID: 4578519822546819460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 15
+        height: 20
+      alignment: 9
+      pivot: {x: 0.6333333, y: 0.875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ec0e6a46300f7b0800000000000000
+      internalID: -5192646639526818212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 116
+        width: 64
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3671875, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedc09fcfafc0bc40800000000000000
+      internalID: 5526145096792198638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 50
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.90384614, y: 0.88461536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36033f2dcdee4b550800000000000000
+      internalID: 6175823621231161443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3
+        width: 16
+        height: 37
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.9324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d046d1ca8e8fa150800000000000000
+      internalID: 5886079964605202642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 51
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.13461539, y: 0.88461536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9018263b6b12b6120800000000000000
+      internalID: 2408055494337003785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4
+        width: 16
+        height: 37
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.9324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1057b33d415d7d0f0800000000000000
+      internalID: -1092170099194104575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LightningGod_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33695653, y: 0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd8171cbc54c580800000000000000
+      internalID: -8807813008318735298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

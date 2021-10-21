@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d8646940a795246b2f60d022238171, type: 3}
+  m_Name: Rabbit_Arms
+  m_EditorClassIdentifier: 
+  info:
+    kind: 31
+    name: "\u30A6\u30B5\u30AE\u306E\u8155"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 5
+      - type: 2
+        value: 10
+      - type: 3
+        value: 2
+      - type: 6
+        value: 5
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    armsType: 0
+    leftArms:
+    - {fileID: 2432565387844668451, guid: 462bd279b7a5f5443b7bb15016072149, type: 3}
+    - {fileID: 4816785876274365535, guid: 462bd279b7a5f5443b7bb15016072149, type: 3}
+    rightArms:
+    - {fileID: 5110612511535974256, guid: 462bd279b7a5f5443b7bb15016072149, type: 3}
+    - {fileID: -222240863053324594, guid: 462bd279b7a5f5443b7bb15016072149, type: 3}
+    leftArm_2_Seams: {x: -4, y: -5}
+    rightArm_2_Seams: {x: 6, y: -7}

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cb6e75c8f7e05468a1fdbbab962cfc, type: 3}
+  m_Name: Underground_Map
+  m_EditorClassIdentifier: 
+  classifyRooms:
+  - roomType: 0
+    rooms:
+    - {fileID: 11400000, guid: bd411cca9ed542944b4c0dc886045196, type: 2}
+    min: 1
+    max: 1
+  - roomType: 2
+    rooms:
+    - {fileID: 11400000, guid: 5b7268034b13ca040bdd64edfe292826, type: 2}
+    - {fileID: 11400000, guid: ed48e8fbff2d7aa468cbdacdda8ebd2f, type: 2}
+    min: 2
+    max: 2
+  - roomType: 4
+    rooms:
+    - {fileID: 11400000, guid: 64bec7b7aa4b9d34a84c78235a19d5ac, type: 2}
+    - {fileID: 11400000, guid: 7b4de1ce948a3db469e4863216d77873, type: 2}
+    min: 2
+    max: 2
+  - roomType: 3
+    rooms:
+    - {fileID: 11400000, guid: 940491c7b64fb44468347aaa73a26e9d, type: 2}
+    - {fileID: 11400000, guid: 95e24d102bca1e449b583ada3cc0aa41, type: 2}
+    min: 2
+    max: 2
+  - roomType: 1
+    rooms:
+    - {fileID: 11400000, guid: 155ad2fda5719a343a7cc7db38b9eeec, type: 2}
+    min: 1
+    max: 1
+  mapStatus:
+    id: 0
+    wallTile: {fileID: 11400000, guid: 8f0e7de87d3058b499b8376b1a49475f, type: 2}
+    platformTile: {fileID: 11400000, guid: e9b314c45e2a00240b44bbc740e63aa6, type: 2}
+    ladderTile: {fileID: 11400000, guid: 238ef347828581a41b786b6db552ca70, type: 2}
+    filledAll: 1
+    background: {fileID: 8385073746087661804, guid: 59da59063657f1c48b6c662eb226309f, type: 3}
+    goals:
+    - {fileID: 5187463930918266023, guid: 4ec582aef1b62434eb51a8f883cd8e63, type: 3}
+    ornaments:
+    - {fileID: 2428947843137531031, guid: 77e630422cea68949a5d577259b15702, type: 3}
+    - {fileID: 2428947843137531031, guid: 049fac7882f139b47953879b37ba94d6, type: 3}
+    - {fileID: 2428947843137531031, guid: 90f42a0a94be1924a9873cba37a37d5e, type: 3}
+    - {fileID: 2428947843137531031, guid: 6afb8b150d402624c8f78535dd4c5dc0, type: 3}
+    - {fileID: 2428947843137531031, guid: f1685dcba48a28b428d60848693ab695, type: 3}
+    - {fileID: 2428947843137531031, guid: 4b0ce7c3a082c1e40bd17b191604775f, type: 3}
+    - {fileID: 2428947843137531031, guid: d5882e27ed1489d439c1a48314959bc4, type: 3}
+    - {fileID: 2428947843137531031, guid: 39301971dfc2b6a4ba7075183490ca79, type: 3}
+    - {fileID: 2428947843137531031, guid: 10de7297224662e49a43c1a19e1f1255, type: 3}
+    - {fileID: 2428947843137531031, guid: d0b768579ea8c4d4984fd6b97b7ce0ba, type: 3}
+    - {fileID: 2428947843137531031, guid: d0b768579ea8c4d4984fd6b97b7ce0ba, type: 3}
+    mapBGM: Map_Underground
+    battleBGM: Battle_Underground
+    encountEnemies:
+    - {fileID: 11400000, guid: 4b5b72546fe45a3418c703c87fc6872a, type: 2}
+    - {fileID: 11400000, guid: 7efd5186bc4c58d47a48126da9101c95, type: 2}
+    - {fileID: 11400000, guid: b5fd5fb7949a1764094e95d8c2fe13bd, type: 2}
+    - {fileID: 11400000, guid: a023f04484cbe0b4883f3b11acc3bbc0, type: 2}
+    abandonedEnemies:
+    - {fileID: 11400000, guid: c8ad6e8c8ef6a3a4bb15487d7d9f251f, type: 2}
+    - {fileID: 11400000, guid: 77e9f24906296744c9e20e824b3afad4, type: 2}
+    - {fileID: 11400000, guid: 202b2cd27976f294e84de79dc5d6318c, type: 2}
+    - {fileID: 11400000, guid: b53f100f81a72f34bb551c8e92572fae, type: 2}

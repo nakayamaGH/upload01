@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af463ea95e916743a2078f39977358f, type: 3}
+  m_Name: BlueOni_Body
+  m_EditorClassIdentifier: 
+  info:
+    kind: 22
+    name: "\u9752\u9B3C\u306E\u4F53"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 40
+      - type: 3
+        value: 2
+    usableSkills: 05000000
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    body: {fileID: 874826233506020220, guid: dcd75c1e977469c4d941465ec53186f6, type: 3}
+    headSeams: {x: 1, y: 14}
+    leftArmSeams: {x: -4, y: 11}
+    rightArm_Seams: {x: 7, y: 12}
+    leftLeg_Seams: {x: -3, y: 0}
+    rightLeg_Seams: {x: 6, y: -1}
+    zIndex: 0
+    backBody: {fileID: 0}

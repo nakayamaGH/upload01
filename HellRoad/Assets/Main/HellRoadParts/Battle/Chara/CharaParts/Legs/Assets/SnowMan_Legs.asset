@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: SnowMan_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 64
+    name: "\u96EA\u3060\u308B\u307E\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 2
+        value: 6
+      - type: 3
+        value: 3
+      - type: 6
+        value: 12
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: -6813739308409768405, guid: df675834d121f9841a0486cc89890135, type: 3}
+    - {fileID: -1504845847226409879, guid: df675834d121f9841a0486cc89890135, type: 3}
+    - {fileID: -6584761258424312735, guid: df675834d121f9841a0486cc89890135, type: 3}
+    rightLegs:
+    - {fileID: 972413539032804077, guid: df675834d121f9841a0486cc89890135, type: 3}
+    - {fileID: -3456164949570380018, guid: df675834d121f9841a0486cc89890135, type: 3}
+    - {fileID: 250360201358610021, guid: df675834d121f9841a0486cc89890135, type: 3}
+    leftLegs_2_Seams: {x: 1, y: -17}
+    leftLegs_3_Seams: {x: -1, y: -13}
+    rightLegs_2_Seams: {x: 0, y: -17}
+    rightLegs_3_Seams: {x: -1, y: -13}
+    legLength: 33.5

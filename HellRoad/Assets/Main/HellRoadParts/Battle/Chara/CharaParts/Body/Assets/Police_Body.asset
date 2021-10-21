@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af463ea95e916743a2078f39977358f, type: 3}
+  m_Name: Police_Body
+  m_EditorClassIdentifier: 
+  info:
+    kind: 70
+    name: "\u8B66\u5BDF\u5B98\u306E\u4F53"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 40
+      - type: 3
+        value: 2
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    body: {fileID: -2741297246837535757, guid: cd9c7e80a0e42a54f9783580c5cd37a9, type: 3}
+    headSeams: {x: -1, y: 21}
+    leftArmSeams: {x: -2, y: 17}
+    rightArm_Seams: {x: 7, y: 18}
+    leftLeg_Seams: {x: -3, y: 0}
+    rightLeg_Seams: {x: 5, y: 0}
+    zIndex: 0
+    backBody: {fileID: 0}

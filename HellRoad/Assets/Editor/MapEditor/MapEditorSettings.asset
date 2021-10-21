@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4274b5f86a6f9204a938c9f5da8dd6c0, type: 3}
+  m_Name: MapEditorSettings
+  m_EditorClassIdentifier: 
+  minTileKind: 0
+  maxTileKind: 70
+  mapWidth: 7
+  mapHeight: 9
+  drawMapOffsetX: 37
+  drawMapOffsetY: 40
+  nowTileIdx: 1
+  tileTex:
+  - {fileID: 2800000, guid: 3b2504ea1755e1742b4766319a927f99, type: 3}
+  - {fileID: 2800000, guid: ebbe436bc47f7c54e9351f9e6080fea7, type: 3}
+  - {fileID: 2800000, guid: 4ab1d584551022348963a9939f4ad78d, type: 3}
+  - {fileID: 2800000, guid: da94051befe3a58498a96af72f25b2f3, type: 3}
+  - {fileID: 2800000, guid: 0afb7011910e01f4db3edc18816804c0, type: 3}
+  - {fileID: 2800000, guid: 7b90b802d1112a34a855075fcb7c9f9f, type: 3}
+  - {fileID: 2800000, guid: 3c3f3ecedd5c8af438e30172a132fb2d, type: 3}
+  - {fileID: 2800000, guid: d2876931d1f2fe94684bed69184573fd, type: 3}
+  - {fileID: 2800000, guid: 45ddeaa0ecdf5f14d84d68bfe5dc7431, type: 3}
+  - {fileID: 2800000, guid: eadf1579faaf5ae43a81d83059882604, type: 3}
+  - {fileID: 2800000, guid: f589a7fe3ff67ca45819c4b80830ede7, type: 3}
+  - {fileID: 2800000, guid: e959a48873330114d9f9fd41edfcb932, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 2800000, guid: 938deac4fc652644a9a70a264fc0fa38, type: 3}
+  - {fileID: 2800000, guid: 1c6b7f30b681a7f4386f373238dde471, type: 3}
+  - {fileID: 2800000, guid: 6c1b3ea47a2566b4cb11ce1a1fbf04d0, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 2800000, guid: fc4c45cac279e6e419f533f5d2597e54, type: 3}
+  - {fileID: 2800000, guid: fc4c45cac279e6e419f533f5d2597e54, type: 3}
+  - {fileID: 2800000, guid: fc4c45cac279e6e419f533f5d2597e54, type: 3}
+  - {fileID: 2800000, guid: fc4c45cac279e6e419f533f5d2597e54, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 2800000, guid: a472e7d86bce0a0408632843312eb18b, type: 3}
+  - {fileID: 2800000, guid: 32aa319922d395947a7099b3ed0d68b8, type: 3}
+  - {fileID: 2800000, guid: 0c30b2f0e7b54144a890e376adee2c14, type: 3}
+  - {fileID: 2800000, guid: 505902e087ec2bd4685af353efbf70e1, type: 3}
+  - {fileID: 2800000, guid: 06715a65b0123334fbf132829d959abc, type: 3}
+  - {fileID: 2800000, guid: 9d945b48befdb7840bda336d22a26ef8, type: 3}
+  - {fileID: 2800000, guid: e0af20fd2c606c34992f10664907eab7, type: 3}
+  - {fileID: 2800000, guid: 50531b50bc94a044dbb4b3b1e35c910e, type: 3}
+  - {fileID: 2800000, guid: 95ecd09ea2cee3a4eab86228b98a97be, type: 3}
+  - {fileID: 2800000, guid: 9960974a011006d45ae6a99e28ee9573, type: 3}
+  - {fileID: 2800000, guid: 8b71da778fb2c4c4d855261537e6a2b2, type: 3}
+  - {fileID: 2800000, guid: 1d9ab2fd9c112434898f25f374700833, type: 3}
+  - {fileID: 2800000, guid: bba6b62ac3d44404dbfe54fb5cb402e2, type: 3}
+  - {fileID: 2800000, guid: 0fa9f59a7c1a41c4fa393ff51240acd0, type: 3}
+  - {fileID: 2800000, guid: e1c7ab9d3c56c0d4bb79172d3d10fa09, type: 3}
+  - {fileID: 2800000, guid: 30ed16bc5b6afa246a9832266df94b34, type: 3}
+  - {fileID: 2800000, guid: a312ed9a3f44cc540a38eaea8881f5e9, type: 3}
+  - {fileID: 2800000, guid: dfbfc066ed0adcc4c8e95fd5a851a7bf, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  tileTexWidth: 16
+  tileTexHeight: 16
+  brushType: 0
+  mapData:
+  - values: 00000000000000000000000000000000000000000000000000000000
+  - values: 00000000000000000000000000000000000000000000000000000000
+  - values: 00000000000000000000000000000000000000000000000000000000
+  - values: 00000000000000000000000032000000000000000000000000000000
+  - values: 02000000020000000200000002000000020000000200000002000000
+  - values: 00000000000000000000000000000000000000000000000000000000
+  - values: 00000000000000000000000000000000000000000000000000000000
+  - values: 00000000000000000000000000000000000000000000000000000000
+  - values: 00000000000000000000000000000000000000000000000000000000

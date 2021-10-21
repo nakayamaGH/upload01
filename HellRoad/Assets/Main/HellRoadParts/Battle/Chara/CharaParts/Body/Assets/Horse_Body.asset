@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af463ea95e916743a2078f39977358f, type: 3}
+  m_Name: Horse_Body
+  m_EditorClassIdentifier: 
+  info:
+    kind: 46
+    name: "\u99AC\u306E\u4F53"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 35
+      - type: 3
+        value: 2
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    body: {fileID: 2045168508190071178, guid: 80aaf0806b109c947a821044396d9465, type: 3}
+    headSeams: {x: 1, y: 25}
+    leftArmSeams: {x: -4, y: 22}
+    rightArm_Seams: {x: 7, y: 22}
+    leftLeg_Seams: {x: -2, y: 0}
+    rightLeg_Seams: {x: 6, y: 0}
+    zIndex: 0
+    backBody: {fileID: 3173617842368974646, guid: 80aaf0806b109c947a821044396d9465, type: 3}

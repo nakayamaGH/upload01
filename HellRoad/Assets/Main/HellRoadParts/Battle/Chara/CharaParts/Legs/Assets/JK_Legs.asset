@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: JK_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 8
+    name: "JK\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 2
+        value: 7
+      - type: 6
+        value: 11
+    usableSkills: 02000000
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: -8329259630555038783, guid: 7e320d759c508dc46a14a4872bb6400e, type: 3}
+    - {fileID: 6553236539293832941, guid: 7e320d759c508dc46a14a4872bb6400e, type: 3}
+    - {fileID: -1409089871517792843, guid: 7e320d759c508dc46a14a4872bb6400e, type: 3}
+    rightLegs:
+    - {fileID: -4384938873842390342, guid: 7e320d759c508dc46a14a4872bb6400e, type: 3}
+    - {fileID: 7062475358167778842, guid: 7e320d759c508dc46a14a4872bb6400e, type: 3}
+    - {fileID: -805076862635800322, guid: 7e320d759c508dc46a14a4872bb6400e, type: 3}
+    leftLegs_2_Seams: {x: 0, y: -13}
+    leftLegs_3_Seams: {x: -1, y: -8}
+    rightLegs_2_Seams: {x: 3, y: -13}
+    rightLegs_3_Seams: {x: 2, y: -8}
+    legLength: 32.5

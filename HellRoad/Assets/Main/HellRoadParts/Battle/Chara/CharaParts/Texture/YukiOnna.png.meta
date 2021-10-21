@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 58610f08a9bb10b4292723199afda5c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -334091434455519323
+    second: YukiOnna_0
+  - first:
+      213: 2841520525534307204
+    second: YukiOnna_1
+  - first:
+      213: 5096215418494774792
+    second: YukiOnna_2
+  - first:
+      213: -7446179076138020053
+    second: YukiOnna_3
+  - first:
+      213: 5679186068278766837
+    second: YukiOnna_4
+  - first:
+      213: -459072411011618624
+    second: YukiOnna_5
+  - first:
+      213: -8163054823143309383
+    second: YukiOnna_6
+  - first:
+      213: 149489124928893851
+    second: YukiOnna_7
+  - first:
+      213: 364373131865889292
+    second: YukiOnna_8
+  - first:
+      213: -8990754470665377272
+    second: YukiOnna_9
+  - first:
+      213: -6823785353020630272
+    second: YukiOnna_10
+  - first:
+      213: -5301382689882752268
+    second: YukiOnna_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 64
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YukiOnna_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 5
+        height: 13
+      alignment: 9
+      pivot: {x: 0.9, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af27c64c911d5bf0800000000000000
+      internalID: -334091434455519323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.89285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483247aecdb1f6720800000000000000
+      internalID: 2841520525534307204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 5
+        height: 13
+      alignment: 9
+      pivot: {x: 0.1, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eef361ce469b640800000000000000
+      internalID: 5096215418494774792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 6
+        height: 14
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.89285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d8d0f49bd9a890800000000000000
+      internalID: -7446179076138020053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 46
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.375, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc6a15b3a580de40800000000000000
+      internalID: 5679186068278766837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 23
+        width: 10
+        height: 23
+      alignment: 9
+      pivot: {x: 0.55, y: 0.8913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8687f031c01a9f0800000000000000
+      internalID: -459072411011618624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 8
+        height: 15
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff08853e007be80800000000000000
+      internalID: -8163054823143309383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 9
+        height: 6
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93bb2d2197131200800000000000000
+      internalID: 149489124928893851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 23
+        width: 10
+        height: 23
+      alignment: 9
+      pivot: {x: 0.55, y: 0.8913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1092de638e0500800000000000000
+      internalID: 364373131865889292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 9
+        height: 15
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a2c39a17c6a3380800000000000000
+      internalID: -8990754470665377272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.9166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b11b9106b0d41a0800000000000000
+      internalID: -6823785353020630272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YukiOnna_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 26
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44230768, y: 0.64285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa322f0884bd66b0800000000000000
+      internalID: -5301382689882752268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

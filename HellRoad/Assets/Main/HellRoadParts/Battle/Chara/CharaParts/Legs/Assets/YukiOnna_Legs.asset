@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: YukiOnna_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 84
+    name: "\u96EA\u5973\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 6
+      - type: 2
+        value: 10
+      - type: 3
+        value: 1
+      - type: 6
+        value: 8
+    usableSkills: 
+    passiveSkills: 10000000
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: -459072411011618624, guid: 58610f08a9bb10b4292723199afda5c6, type: 3}
+    - {fileID: -8163054823143309383, guid: 58610f08a9bb10b4292723199afda5c6, type: 3}
+    - {fileID: 149489124928893851, guid: 58610f08a9bb10b4292723199afda5c6, type: 3}
+    rightLegs:
+    - {fileID: 364373131865889292, guid: 58610f08a9bb10b4292723199afda5c6, type: 3}
+    - {fileID: -8990754470665377272, guid: 58610f08a9bb10b4292723199afda5c6, type: 3}
+    - {fileID: -6823785353020630272, guid: 58610f08a9bb10b4292723199afda5c6, type: 3}
+    leftLegs_2_Seams: {x: -1, y: -18}
+    leftLegs_3_Seams: {x: 0, y: -11}
+    rightLegs_2_Seams: {x: -1, y: -18}
+    rightLegs_3_Seams: {x: 2, y: -11}
+    legLength: 34.5

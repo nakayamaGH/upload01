@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: Zombie_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 76
+    name: "\u30BE\u30F3\u30D3\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 2
+        value: 8
+      - type: 6
+        value: 8
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: -7940327361788584862, guid: 346a565bcad86b241a499b35995eebe6, type: 3}
+    - {fileID: 3702863575619520129, guid: 346a565bcad86b241a499b35995eebe6, type: 3}
+    - {fileID: 1885353791222077521, guid: 346a565bcad86b241a499b35995eebe6, type: 3}
+    rightLegs:
+    - {fileID: -2214034502796586735, guid: 346a565bcad86b241a499b35995eebe6, type: 3}
+    - {fileID: -4221981205533977120, guid: 346a565bcad86b241a499b35995eebe6, type: 3}
+    - {fileID: -2518277709004515230, guid: 346a565bcad86b241a499b35995eebe6, type: 3}
+    leftLegs_2_Seams: {x: 0, y: -15}
+    leftLegs_3_Seams: {x: 0, y: -13}
+    rightLegs_2_Seams: {x: 0, y: -16}
+    rightLegs_3_Seams: {x: 2, y: -13}
+    legLength: 34.5

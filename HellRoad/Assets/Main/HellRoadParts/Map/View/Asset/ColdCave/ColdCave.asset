@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cb6e75c8f7e05468a1fdbbab962cfc, type: 3}
+  m_Name: ColdCave
+  m_EditorClassIdentifier: 
+  classifyRooms:
+  - roomType: 0
+    rooms:
+    - {fileID: 11400000, guid: cdb7c246106ae184684b60bd5502d66b, type: 2}
+    min: 1
+    max: 1
+  - roomType: 2
+    rooms:
+    - {fileID: 11400000, guid: 4dd48c6c185043b418d7fbb5e6c31e20, type: 2}
+    - {fileID: 11400000, guid: a69f22bd1246b624f904850a40553f32, type: 2}
+    min: 5
+    max: 5
+  - roomType: 3
+    rooms:
+    - {fileID: 11400000, guid: ff030242b99bfd34891fed6330b3130e, type: 2}
+    - {fileID: 11400000, guid: a80fe24ece528ca4f8a54d4c92ac1af4, type: 2}
+    min: 4
+    max: 4
+  - roomType: 1
+    rooms:
+    - {fileID: 11400000, guid: bd0467447e0306d448ced96e91e4a820, type: 2}
+    min: 1
+    max: 1
+  mapStatus:
+    id: 5
+    wallTile: {fileID: 11400000, guid: 68dc764d5bbb3ba46a6e9471aedf2116, type: 2}
+    platformTile: {fileID: 11400000, guid: 006281396955b4e4aaa1f07665f4557e, type: 2}
+    ladderTile: {fileID: 11400000, guid: d76a9f8b069c6874b97894331c3ad63c, type: 2}
+    filledAll: 1
+    background: {fileID: 8385073746087661804, guid: 87e6686c0dfd39e4cb414623061fcbe9, type: 3}
+    goals:
+    - {fileID: 5187463930918266023, guid: 0baa935ce3c616b41bd428c8f40f6780, type: 3}
+    ornaments:
+    - {fileID: 2428947843137531031, guid: f986c60be96fb28439980d9f8d5181a0, type: 3}
+    - {fileID: 2428947843137531031, guid: a916c4017d0c4d147aba789fbbfaccb8, type: 3}
+    - {fileID: 2428947843137531031, guid: db57b28dfa16b7945affc0b8581236b0, type: 3}
+    - {fileID: 2428947843137531031, guid: 7caab8f250c74e345bfaaee06dfbbc45, type: 3}
+    - {fileID: 2428947843137531031, guid: f2a32866b1103e94d8f3bacccbd409d0, type: 3}
+    mapBGM: Map_ColdCave
+    battleBGM: Battle_ColdCave
+    encountEnemies:
+    - {fileID: 11400000, guid: ea52b210a4e498b49b864f6a95d1010f, type: 2}
+    - {fileID: 11400000, guid: 4e0f34251b1a43c4bba783a57f23c91a, type: 2}
+    - {fileID: 11400000, guid: 6cbfec9ab3e35d843bc599038e06c8ce, type: 2}
+    - {fileID: 11400000, guid: 4b5b72546fe45a3418c703c87fc6872a, type: 2}
+    abandonedEnemies: []
+    otherEnemies_1: []
+    otherEnemies_2: []
+    otherEnemies_3: []

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cb6e75c8f7e05468a1fdbbab962cfc, type: 3}
+  m_Name: ColdCave_Boss_Map
+  m_EditorClassIdentifier: 
+  classifyRooms:
+  - roomType: 0
+    rooms:
+    - {fileID: 11400000, guid: d1f91cde704f405478c54bed3b7dedc3, type: 2}
+    min: 1
+    max: 1
+  mapStatus:
+    id: 12
+    wallTile: {fileID: 11400000, guid: 68dc764d5bbb3ba46a6e9471aedf2116, type: 2}
+    platformTile: {fileID: 11400000, guid: 006281396955b4e4aaa1f07665f4557e, type: 2}
+    ladderTile: {fileID: 11400000, guid: d76a9f8b069c6874b97894331c3ad63c, type: 2}
+    filledAll: 0
+    background: {fileID: 8385073746087661804, guid: 87e6686c0dfd39e4cb414623061fcbe9, type: 3}
+    goals:
+    - {fileID: 5187463930918266023, guid: 95ab6ef7eb2825546b91ee64d29498b5, type: 3}
+    ornaments:
+    - {fileID: 2428947843137531031, guid: f986c60be96fb28439980d9f8d5181a0, type: 3}
+    - {fileID: 2428947843137531031, guid: a916c4017d0c4d147aba789fbbfaccb8, type: 3}
+    - {fileID: 2428947843137531031, guid: db57b28dfa16b7945affc0b8581236b0, type: 3}
+    - {fileID: 2428947843137531031, guid: 7caab8f250c74e345bfaaee06dfbbc45, type: 3}
+    - {fileID: 2428947843137531031, guid: f2a32866b1103e94d8f3bacccbd409d0, type: 3}
+    mapBGM: Map_ColdCave
+    battleBGM: Battle_ColdCave
+    encountEnemies:
+    - {fileID: 11400000, guid: c87dd38a88c9ead40b5e16d9818a7f2a, type: 2}
+    abandonedEnemies: []
+    otherEnemies_1:
+    - {fileID: 11400000, guid: 91ee150d17754fd49b0826dcce3b8b7a, type: 2}
+    otherEnemies_2: []
+    otherEnemies_3: []

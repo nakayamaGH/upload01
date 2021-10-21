@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cb6e75c8f7e05468a1fdbbab962cfc, type: 3}
+  m_Name: Underground_Boss_Map
+  m_EditorClassIdentifier: 
+  classifyRooms:
+  - roomType: 0
+    rooms:
+    - {fileID: 11400000, guid: 59d8e11b48b64d648b195b4574ced61b, type: 2}
+    min: 1
+    max: 1
+  mapStatus:
+    id: 1
+    wallTile: {fileID: 11400000, guid: 8f0e7de87d3058b499b8376b1a49475f, type: 2}
+    platformTile: {fileID: 11400000, guid: e9b314c45e2a00240b44bbc740e63aa6, type: 2}
+    ladderTile: {fileID: 11400000, guid: 238ef347828581a41b786b6db552ca70, type: 2}
+    filledAll: 1
+    background: {fileID: 8385073746087661804, guid: 59da59063657f1c48b6c662eb226309f, type: 3}
+    goals:
+    - {fileID: 5187463930918266023, guid: a7aaec5177308c240b0966b6f6b32cd3, type: 3}
+    ornaments:
+    - {fileID: 2428947843137531031, guid: 77e630422cea68949a5d577259b15702, type: 3}
+    - {fileID: 2428947843137531031, guid: 049fac7882f139b47953879b37ba94d6, type: 3}
+    - {fileID: 2428947843137531031, guid: 90f42a0a94be1924a9873cba37a37d5e, type: 3}
+    - {fileID: 2428947843137531031, guid: 6afb8b150d402624c8f78535dd4c5dc0, type: 3}
+    - {fileID: 2428947843137531031, guid: f1685dcba48a28b428d60848693ab695, type: 3}
+    - {fileID: 2428947843137531031, guid: 4b0ce7c3a082c1e40bd17b191604775f, type: 3}
+    - {fileID: 2428947843137531031, guid: d5882e27ed1489d439c1a48314959bc4, type: 3}
+    - {fileID: 2428947843137531031, guid: 39301971dfc2b6a4ba7075183490ca79, type: 3}
+    - {fileID: 2428947843137531031, guid: 10de7297224662e49a43c1a19e1f1255, type: 3}
+    - {fileID: 2428947843137531031, guid: d0b768579ea8c4d4984fd6b97b7ce0ba, type: 3}
+    mapBGM: Map_Underground_Boss
+    battleBGM: Battle_Underground_Boss
+    encountEnemies:
+    - {fileID: 11400000, guid: 62e342d3769ed564f9153498cfa2245d, type: 2}

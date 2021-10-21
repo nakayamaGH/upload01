@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: Enma_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 88
+    name: "\u95BB\u9B54\u5927\u738B\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 7
+      - type: 2
+        value: 12
+      - type: 3
+        value: 4
+      - type: 6
+        value: 10
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: 649525560579696138, guid: 58850dcbc58df524d8790a526ab53c45, type: 3}
+    - {fileID: -8298673723412640489, guid: 58850dcbc58df524d8790a526ab53c45, type: 3}
+    - {fileID: -3229625260305568352, guid: 58850dcbc58df524d8790a526ab53c45, type: 3}
+    rightLegs:
+    - {fileID: 743715190819438268, guid: 58850dcbc58df524d8790a526ab53c45, type: 3}
+    - {fileID: 2560034891741805157, guid: 58850dcbc58df524d8790a526ab53c45, type: 3}
+    - {fileID: -813616090576528131, guid: 58850dcbc58df524d8790a526ab53c45, type: 3}
+    leftLegs_2_Seams: {x: -1, y: -31}
+    leftLegs_3_Seams: {x: -1, y: -47}
+    rightLegs_2_Seams: {x: 1, y: -31}
+    rightLegs_3_Seams: {x: -2, y: -49}
+    legLength: 96.5

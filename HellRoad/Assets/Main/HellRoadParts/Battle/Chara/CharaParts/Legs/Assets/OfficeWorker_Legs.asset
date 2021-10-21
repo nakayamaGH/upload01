@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: OfficeWorker_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 20
+    name: "\u30B5\u30E9\u30EA\u30FC\u30DE\u30F3\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 4
+        value: 8
+      - type: 6
+        value: 11
+    usableSkills: 01000000
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: -2634460739676332289, guid: 64e742a3a2a73f340876927cb807cb0b, type: 3}
+    - {fileID: -3148564053160877421, guid: 64e742a3a2a73f340876927cb807cb0b, type: 3}
+    - {fileID: -4037460973806626052, guid: 64e742a3a2a73f340876927cb807cb0b, type: 3}
+    rightLegs:
+    - {fileID: -4337714532880748880, guid: 64e742a3a2a73f340876927cb807cb0b, type: 3}
+    - {fileID: 1124492848449632002, guid: 64e742a3a2a73f340876927cb807cb0b, type: 3}
+    - {fileID: 3010874629410843862, guid: 64e742a3a2a73f340876927cb807cb0b, type: 3}
+    leftLegs_2_Seams: {x: 0, y: -13}
+    leftLegs_3_Seams: {x: -1, y: -12}
+    rightLegs_2_Seams: {x: 0, y: -13}
+    rightLegs_3_Seams: {x: 3, y: -13}
+    legLength: 33

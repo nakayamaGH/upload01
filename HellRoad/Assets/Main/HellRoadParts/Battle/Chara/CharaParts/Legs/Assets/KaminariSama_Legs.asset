@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: KaminariSama_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 40
+    name: "\u96F7\u69D8\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 5
+      - type: 2
+        value: 7
+      - type: 3
+        value: 5
+      - type: 6
+        value: 7
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: -1683494111082943593, guid: 3e6a9baf329c0b64faa29de7b2c78f61, type: 3}
+    - {fileID: -4384742077383712221, guid: 3e6a9baf329c0b64faa29de7b2c78f61, type: 3}
+    - {fileID: -798377683176357666, guid: 3e6a9baf329c0b64faa29de7b2c78f61, type: 3}
+    rightLegs:
+    - {fileID: 7154313532437612344, guid: 3e6a9baf329c0b64faa29de7b2c78f61, type: 3}
+    - {fileID: 4578519822546819460, guid: 3e6a9baf329c0b64faa29de7b2c78f61, type: 3}
+    - {fileID: -5192646639526818212, guid: 3e6a9baf329c0b64faa29de7b2c78f61, type: 3}
+    leftLegs_2_Seams: {x: 0, y: -43}
+    leftLegs_3_Seams: {x: 3, y: -26}
+    rightLegs_2_Seams: {x: 1, y: -43}
+    rightLegs_3_Seams: {x: 2, y: -26}
+    legLength: 94

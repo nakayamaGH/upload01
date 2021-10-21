@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HeadParts
+  m_EditorClassIdentifier: 
+  m_GroupName: HeadParts
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 40f64cdbccbdf95449d14b798cbc6e1c
+  m_SerializeEntries:
+  - m_GUID: 235384c2805d6f6488a966fb3ae28fe2
+    m_Address: Skull_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d3a3d76d25b345343957d8a9be5e42c3
+    m_Address: JK_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2cc32fb7c43638540921ed3c0a6a04f7
+    m_Address: GoldenMan_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4752b816c796fcb4bbdf1fa230ede082
+    m_Address: Oni_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8b881aaaaedd9394da03d43112afae29
+    m_Address: OfficeWorker_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 19cb248b6a52c7e49a73bdb73efb10ff
+    m_Address: KARAGE_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 975a03a3ad884d943ba239b05f7aa630
+    m_Address: BlueOni_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4fe2e57048c9dbb4da9366b8ce1e8ba1
+    m_Address: Succubus_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3cceceb44b1fb88468c489ac7bdac3ca
+    m_Address: Rabbit_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f1ae008bb1b9dc1418be061e15cc2d30
+    m_Address: Angel_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4c027415af26e1341ad54fd51231f006
+    m_Address: KaminariSama_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 53701350d67d9e74cb19b9b1c96ced71
+    m_Address: Pigeon_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b554846213a3a5e4d886e765c72b0ac5
+    m_Address: Horse_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 22cdddd2d9b4cd64a904fa4f91c1cefc
+    m_Address: Magician_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f849d468217e09489d3d5589c194355
+    m_Address: Alien_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3b213bd8e4505b04cb2c1b1523f1a4a0
+    m_Address: Crab_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 919e16670363c1e4bae0db8941a5bbdd
+    m_Address: Giraffe_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f1bfd417185ead84ab4561a8ef3e1f50
+    m_Address: Police_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bc42aa5557733ae4aa5efc6df088aaf4
+    m_Address: SnowMan_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 314e16e9986a4ed40bda43b9580da99b
+    m_Address: Zombie_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3081b4bd437b1884d9713504986240ea
+    m_Address: Death_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 64bc482a19a4f7848a0b20fe781e1437
+    m_Address: YukiOnna_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 4571efc3f62fd324b8ab6d6c4fa24695
+    m_Address: Enma_Head
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Head
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9979af130630cb948981e6fc3be85c1d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3a7df39634065ab47b82e69113aca7d4, type: 2}
+    - {fileID: 11400000, guid: 4e1cf7903473b6e47a96a0fad388588c, type: 2}

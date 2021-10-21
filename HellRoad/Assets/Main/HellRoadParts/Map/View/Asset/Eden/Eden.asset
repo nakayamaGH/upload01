@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cb6e75c8f7e05468a1fdbbab962cfc, type: 3}
+  m_Name: Eden
+  m_EditorClassIdentifier: 
+  classifyRooms:
+  - roomType: 0
+    rooms:
+    - {fileID: 11400000, guid: c009c6cd52b13ae44843b57f7ed4d6bc, type: 2}
+    min: 1
+    max: 1
+  - roomType: 2
+    rooms:
+    - {fileID: 11400000, guid: 3857556dced2f5142b0fe9c36c736473, type: 2}
+    - {fileID: 11400000, guid: 09953eddf4ff8df4087511ff358a5698, type: 2}
+    - {fileID: 11400000, guid: 02ab08d16f39983488237f87f11e3faa, type: 2}
+    min: 8
+    max: 8
+  - roomType: 3
+    rooms:
+    - {fileID: 11400000, guid: f3f3bc135a35f854ea046e97086d9ac3, type: 2}
+    min: 3
+    max: 3
+  - roomType: 1
+    rooms:
+    - {fileID: 11400000, guid: e9a27ef6f2b512b40a5056325f92d1f1, type: 2}
+    min: 1
+    max: 1
+  mapStatus:
+    id: 4
+    wallTile: {fileID: 11400000, guid: 603ddb1420269244cb25653877e94216, type: 2}
+    platformTile: {fileID: 11400000, guid: a8902b74e9ad92c40aacf5de067e0bee, type: 2}
+    ladderTile: {fileID: 11400000, guid: 441edc046d397e34a91b1cf98eba70c1, type: 2}
+    filledAll: 0
+    background: {fileID: 8385073746087661804, guid: ca10bfcfa37006f49acbe03a4ad1f6a8, type: 3}
+    goals:
+    - {fileID: 5187463930918266023, guid: 99b1958efe16bd44dba112d66149f590, type: 3}
+    ornaments:
+    - {fileID: 2428947843137531031, guid: 11fe5607eef36a94fb6d747cc54d174b, type: 3}
+    - {fileID: 2428947843137531031, guid: f7a303c8b905cd244996cc3c827cd821, type: 3}
+    - {fileID: 2428947843137531031, guid: d075853bdc7615e4a9189a568a41e808, type: 3}
+    - {fileID: 2428947843137531031, guid: a0b295b003d945c42bb850e3747b6c68, type: 3}
+    - {fileID: 2428947843137531031, guid: 1530bc7d1ef740049bd626a0a6934f7a, type: 3}
+    - {fileID: 2428947843137531031, guid: 1b0a0a3dc9b68f041beb32e739d27556, type: 3}
+    - {fileID: 2428947843137531031, guid: c6860040becc02c4f9b3eae389dcf47a, type: 3}
+    - {fileID: 2428947843137531031, guid: 8fe26cf192880c1499becb1de8c098dc, type: 3}
+    - {fileID: 2428947843137531031, guid: 369751320c3bfd344ac6ebede7f9ae80, type: 3}
+    mapBGM: Map_Eden
+    battleBGM: Battle_Eden
+    encountEnemies:
+    - {fileID: 11400000, guid: 4a7ba057cd8f09f469e669afe4a9a656, type: 2}
+    - {fileID: 11400000, guid: 7cc66708ddb3ddc40a8ce77d8cf88a8f, type: 2}
+    - {fileID: 11400000, guid: ade652a93396bb043b3db50bd55f1a9b, type: 2}
+    abandonedEnemies: []
+    otherEnemies_1: []
+    otherEnemies_2: []
+    otherEnemies_3: []

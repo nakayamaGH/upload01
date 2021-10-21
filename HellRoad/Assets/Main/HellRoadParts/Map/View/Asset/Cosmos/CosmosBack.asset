@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cb6e75c8f7e05468a1fdbbab962cfc, type: 3}
+  m_Name: CosmosBack
+  m_EditorClassIdentifier: 
+  classifyRooms:
+  - roomType: 0
+    rooms:
+    - {fileID: 11400000, guid: c009c6cd52b13ae44843b57f7ed4d6bc, type: 2}
+    min: 1
+    max: 1
+  - roomType: 2
+    rooms:
+    - {fileID: 11400000, guid: 3857556dced2f5142b0fe9c36c736473, type: 2}
+    - {fileID: 11400000, guid: 09953eddf4ff8df4087511ff358a5698, type: 2}
+    - {fileID: 11400000, guid: 02ab08d16f39983488237f87f11e3faa, type: 2}
+    min: 8
+    max: 8
+  - roomType: 3
+    rooms:
+    - {fileID: 11400000, guid: f3f3bc135a35f854ea046e97086d9ac3, type: 2}
+    min: 3
+    max: 3
+  mapStatus:
+    id: 10
+    wallTile: {fileID: 11400000, guid: 6186d66961ce869468cd20b5b761f5fc, type: 2}
+    platformTile: {fileID: 11400000, guid: 757643a28faad4143bf938a3718d582e, type: 2}
+    ladderTile: {fileID: 11400000, guid: 698ff70d92c9ba74ea8241eceafd2758, type: 2}
+    filledAll: 0
+    background: {fileID: 8385073746087661804, guid: b82c283aaf065934dbe2296a93bfae11, type: 3}
+    goals: []
+    ornaments:
+    - {fileID: 2428947843137531031, guid: 11fe5607eef36a94fb6d747cc54d174b, type: 3}
+    - {fileID: 2428947843137531031, guid: f7a303c8b905cd244996cc3c827cd821, type: 3}
+    - {fileID: 2428947843137531031, guid: d075853bdc7615e4a9189a568a41e808, type: 3}
+    - {fileID: 2428947843137531031, guid: a0b295b003d945c42bb850e3747b6c68, type: 3}
+    - {fileID: 2428947843137531031, guid: 1530bc7d1ef740049bd626a0a6934f7a, type: 3}
+    - {fileID: 2428947843137531031, guid: 1b0a0a3dc9b68f041beb32e739d27556, type: 3}
+    - {fileID: 2428947843137531031, guid: c6860040becc02c4f9b3eae389dcf47a, type: 3}
+    - {fileID: 2428947843137531031, guid: 8fe26cf192880c1499becb1de8c098dc, type: 3}
+    - {fileID: 2428947843137531031, guid: 369751320c3bfd344ac6ebede7f9ae80, type: 3}
+    mapBGM: Map_Cosmos
+    battleBGM: Battle_Cosmos
+    encountEnemies:
+    - {fileID: 11400000, guid: 3ca78ec067df94b4a9ed6f8fe1b9359d, type: 2}
+    - {fileID: 11400000, guid: b0493e5d7f4ae3849bce81217a92a523, type: 2}
+    - {fileID: 11400000, guid: ce53f300d45a2ac4484fbc4f6a57d4d0, type: 2}
+    abandonedEnemies: []

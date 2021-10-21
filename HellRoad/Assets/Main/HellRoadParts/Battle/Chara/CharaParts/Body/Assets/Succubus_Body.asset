@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af463ea95e916743a2078f39977358f, type: 3}
+  m_Name: Succubus_Body
+  m_EditorClassIdentifier: 
+  info:
+    kind: 26
+    name: "\u30B5\u30AD\u30E5\u30D0\u30B9\u306E\u4F53"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 35
+      - type: 5
+        value: 3
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    body: {fileID: 6863239856452190960, guid: 856fccf7c25901046a363c159390386b, type: 3}
+    headSeams: {x: 0, y: 19}
+    leftArmSeams: {x: -2, y: 16}
+    rightArm_Seams: {x: 7, y: 16}
+    leftLeg_Seams: {x: -1, y: -2}
+    rightLeg_Seams: {x: 6, y: -2}
+    zIndex: 0
+    backBody: {fileID: 0}

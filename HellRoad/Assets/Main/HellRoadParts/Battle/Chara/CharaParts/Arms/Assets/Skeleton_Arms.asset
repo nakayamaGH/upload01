@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d8646940a795246b2f60d022238171, type: 3}
+  m_Name: Skeleton_Arms
+  m_EditorClassIdentifier: 
+  info:
+    kind: 3
+    name: "\u9AA8\u306E\u8155"
+    about: 
+    status:
+      parameters:
+      - type: 2
+        value: 8
+      - type: 6
+        value: 1
+    usableSkills: 00000000
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    armsType: 0
+    leftArms:
+    - {fileID: -847050761867900171, guid: 983383b99d0cddc45826184908423fa9, type: 3}
+    - {fileID: 4630129929200437621, guid: 983383b99d0cddc45826184908423fa9, type: 3}
+    rightArms:
+    - {fileID: 6620881404517330715, guid: 983383b99d0cddc45826184908423fa9, type: 3}
+    - {fileID: -7300718444171742710, guid: 983383b99d0cddc45826184908423fa9, type: 3}
+    leftArm_2_Seams: {x: -6, y: -12}
+    rightArm_2_Seams: {x: 6, y: -12}

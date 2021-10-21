@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d8646940a795246b2f60d022238171, type: 3}
+  m_Name: Graffe_Arms
+  m_EditorClassIdentifier: 
+  info:
+    kind: 59
+    name: "\u30AD\u30EA\u30F3\u306E\u8155"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 8
+      - type: 2
+        value: 7
+      - type: 6
+        value: 5
+    usableSkills: 06000000
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    armsType: 0
+    leftArms:
+    - {fileID: 7144816583611463554, guid: d2d04a8ef9dec2a4f898b16b0fd7654a, type: 3}
+    - {fileID: 3210637129309076529, guid: d2d04a8ef9dec2a4f898b16b0fd7654a, type: 3}
+    rightArms:
+    - {fileID: 4432647470876428756, guid: d2d04a8ef9dec2a4f898b16b0fd7654a, type: 3}
+    - {fileID: -173925551464068392, guid: d2d04a8ef9dec2a4f898b16b0fd7654a, type: 3}
+    leftArm_2_Seams: {x: -5, y: -16}
+    rightArm_2_Seams: {x: 4, y: -16}

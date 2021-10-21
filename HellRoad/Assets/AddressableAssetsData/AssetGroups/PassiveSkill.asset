@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PassiveSkill
+  m_EditorClassIdentifier: 
+  m_GroupName: PassiveSkill
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b83f1059f5bf92249831319054ea7f4e
+  m_SerializeEntries:
+  - m_GUID: 45b9cf9566f84e94fb41eaf397f085b7
+    m_Address: Counter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9760afafd4b8c4f47ae1a11864425e65
+    m_Address: AddMagicalDefense
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f6ba6d1372cefd54c93e5f3ad43516ef
+    m_Address: AddMagicalPower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 329d07e961806cc4dac2df4e581030cc
+    m_Address: AddPhysicalDefense
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b67d99a3a41fa1f49a4db1235db40462
+    m_Address: AddPhysicalPower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 738c850227208e348b1978f222229cde
+    m_Address: AddSpeed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b72826f7799d8cd4b9edfe80c23405a0
+    m_Address: Poison
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8c313cda9375a134aa636100ab24fa7a
+    m_Address: ReduceSpeed
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9c9734ad8dc72e34aad87dd2a4e5f1a7
+    m_Address: ReduceMagicalDefense
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 667961a6202641a44b6813e1f796c9c2
+    m_Address: ReduceMagicalPower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6be47c9bd7f1f244ba42c873f4b58520
+    m_Address: ReducePhysicalDefense
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8da1d35dc3df4544daa4a70b55fd5f75
+    m_Address: ReducePhysicalPower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9cc21cfa911ed9a4988d5d8561576dfd
+    m_Address: Angry
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bd6f18601b9cc564990a2ec2e0c4a730
+    m_Address: GoldenBrain
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cc84433b110da9c4e89465433be49d04
+    m_Address: Scream
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9ba744e926d44f148ab685e164519bb4
+    m_Address: ServiceOvertime
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 11400000, guid: 9ba744e926d44f148ab685e164519bb4, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9ba744e926d44f148ab685e164519bb4, type: 2}
+  - m_GUID: 3e98fd71d72dbfe41abfc79156968924
+    m_Address: HiddenBlade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 11400000, guid: 3e98fd71d72dbfe41abfc79156968924, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 3e98fd71d72dbfe41abfc79156968924, type: 2}
+  - m_GUID: 92e2a9aec842ab74eb930682246a5a2f
+    m_Address: Temptation
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PassiveSkill
+    m_MainAsset: {fileID: 11400000, guid: 92e2a9aec842ab74eb930682246a5a2f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 92e2a9aec842ab74eb930682246a5a2f, type: 2}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9979af130630cb948981e6fc3be85c1d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 279f522a855e8794d85c4305ca6bff58, type: 2}
+    - {fileID: 11400000, guid: 658403a6df0014243b35a0dc922e6b77, type: 2}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1868e8817e21fcf4d9ec17f46c9138e6, type: 3}
+  m_Name: BGM_Datas
+  m_EditorClassIdentifier: 
+  datas:
+  - name: Title
+    clip: {fileID: 8300000, guid: 87e45f454ade7744c85cb48938ff9096, type: 3}
+  - name: Map_Innermost
+    clip: {fileID: 8300000, guid: 5bb522f5c3638e647bf46ce3a0f3fd83, type: 3}
+  - name: Battle_Innermost
+    clip: {fileID: 8300000, guid: 5bb522f5c3638e647bf46ce3a0f3fd83, type: 3}
+  - name: Map_Underground
+    clip: {fileID: 8300000, guid: 87faf5930d002184bb18ddc01e2a8d67, type: 3}
+  - name: Battle_Underground
+    clip: {fileID: 8300000, guid: 90bf54bee0dd4634c88063443bc81a64, type: 3}
+  - name: Map_Underground_Boss
+    clip: {fileID: 8300000, guid: 7a2bd7ad19cb2164ca86b8b50fe702da, type: 3}
+  - name: Battle_Underground_Boss
+    clip: {fileID: 8300000, guid: 6cc48e1972fda9d4084a50b59ad037ea, type: 3}
+  - name: Map_Eden
+    clip: {fileID: 8300000, guid: 30230e0a9d2ec0d4e8e3d5028f94ffdc, type: 3}
+  - name: Battle_Eden
+    clip: {fileID: 8300000, guid: 30230e0a9d2ec0d4e8e3d5028f94ffdc, type: 3}
+  - name: Map_ColdCave
+    clip: {fileID: 8300000, guid: 6dcac378db49fcf40b9ad8b878dcc2a6, type: 3}
+  - name: Battle_ColdCave
+    clip: {fileID: 8300000, guid: 38addd48edad36a428ddee87219db95d, type: 3}
+  - name: Map_Hades
+    clip: {fileID: 8300000, guid: a05d8dcc59bb4ad48b841caa028ac5ed, type: 3}
+  - name: Battle_Hades
+    clip: {fileID: 8300000, guid: 92dc124ce52286d41a3754af2e90f1ca, type: 3}
+  - name: Map_Cosmos
+    clip: {fileID: 8300000, guid: a05d8dcc59bb4ad48b841caa028ac5ed, type: 3}
+  - name: Battle_Cosmos
+    clip: {fileID: 8300000, guid: 92dc124ce52286d41a3754af2e90f1ca, type: 3}

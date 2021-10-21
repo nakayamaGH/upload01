@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af463ea95e916743a2078f39977358f, type: 3}
+  m_Name: YukiOnna_Body
+  m_EditorClassIdentifier: 
+  info:
+    kind: 82
+    name: "\u96EA\u5973\u306E\u4F53"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 52
+      - type: 5
+        value: 4
+      - type: 6
+        value: 2
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    body: {fileID: -5301382689882752268, guid: 58610f08a9bb10b4292723199afda5c6, type: 3}
+    headSeams: {x: -1, y: 18}
+    leftArmSeams: {x: -3, y: 14}
+    rightArm_Seams: {x: 7, y: 12}
+    leftLeg_Seams: {x: -1, y: 0}
+    rightLeg_Seams: {x: 4, y: 0}
+    zIndex: 0
+    backBody: {fileID: 0}

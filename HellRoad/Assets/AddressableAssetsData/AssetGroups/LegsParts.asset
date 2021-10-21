@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LegsParts
+  m_EditorClassIdentifier: 
+  m_GroupName: LegsParts
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4312bc6281850c54b8e2b18eb83b0769
+  m_SerializeEntries:
+  - m_GUID: 06b46cb835074ab4790c1dc23c51e3d9
+    m_Address: Skeleton_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8a03048c67d3ae84d80e7f3e3f1f37a1
+    m_Address: JK_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7c5d92e3cfac84b448f4ea73f438c565
+    m_Address: GoldenMan_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7d9fb47dbcaa4de45b930875723dd5a0
+    m_Address: OfficeWorker_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aeafaa17e884d4149b6c9344f342d1dd
+    m_Address: Oni_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 01e57875c14ff01438a8e2c515f35d2a
+    m_Address: BlueOni_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0a98b89fc3a895c4e94c645b2643cd66
+    m_Address: Succubus_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: cd9061e3d257e9649a2620817a51a002
+    m_Address: Rabbit_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 821c6d664ac857c438ae3b1b0b390108
+    m_Address: Angel_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e0de9dbccca553a4c9ab5a56aff1851f
+    m_Address: KaminariSama_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0d5eb3da5927eb946b378117a000599b
+    m_Address: Pigeon_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 83c1f7e08a86c1c4388daf79c3bb28ca
+    m_Address: Horse_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ce3cdbbcbf994414e91dcff7239e6478
+    m_Address: Magician_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e1a34742623f59e4cb1632bbd15e6262
+    m_Address: Alien_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5baf3d8e505b43d4daa95ea2a228d046
+    m_Address: Crab_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d3538ae7248f7fe4399c321f9d8c2341
+    m_Address: Giraffe_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9a6b632e8a7d3fd4584bf9b7b5f03fee
+    m_Address: Police_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c248bfdb11512854ba24d59d3bd188df
+    m_Address: SnowMan_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a8dcca54ce8696147924fa82c85e1369
+    m_Address: Zombie_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2d50b33dc1c878145bc79323cd81b0d6
+    m_Address: Death_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ccabc4e484139b144ad6627897d3017e
+    m_Address: YukiOnna_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d3c34bb5dafff6c439e932e65ec1bb5c
+    m_Address: Enma_Legs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Legs
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9979af130630cb948981e6fc3be85c1d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7575d1da5a4306b409a7d6defa21e167, type: 2}
+    - {fileID: 11400000, guid: 9e38d5ae270cf624dba5ed8dc2e8b4d1, type: 2}

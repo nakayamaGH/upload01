@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: Crab_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 56
+    name: "\u30AB\u30CB\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 2
+        value: 5
+      - type: 4
+        value: 5
+      - type: 6
+        value: 8
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: 5341608183224508309, guid: 7effb912315902344a3a26144b6fc77e, type: 3}
+    - {fileID: 8921867162773266863, guid: 7effb912315902344a3a26144b6fc77e, type: 3}
+    - {fileID: 0}
+    rightLegs:
+    - {fileID: -7278780791788454882, guid: 7effb912315902344a3a26144b6fc77e, type: 3}
+    - {fileID: -7057093182316294559, guid: 7effb912315902344a3a26144b6fc77e, type: 3}
+    - {fileID: 0}
+    leftLegs_2_Seams: {x: 0, y: -11}
+    leftLegs_3_Seams: {x: -1, y: -9}
+    rightLegs_2_Seams: {x: 1, y: -11}
+    rightLegs_3_Seams: {x: 2, y: -9}
+    legLength: 24.5

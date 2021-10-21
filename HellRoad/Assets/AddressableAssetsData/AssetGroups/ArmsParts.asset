@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ArmsParts
+  m_EditorClassIdentifier: 
+  m_GroupName: ArmsParts
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eea8681a70825184ca2460a5da5b535b
+  m_SerializeEntries:
+  - m_GUID: 8c4c92ed08be08e498ae0fa3bc340da8
+    m_Address: Skeleton_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5478d83bfc7ffa84b9012f9647a2682b
+    m_Address: JK_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 40700ba5fa210314cb0989a7fd08fdd8
+    m_Address: GoldenMan_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7c7d0c5c8e778214eaa5294370dcefda
+    m_Address: OfficeWorker_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 68037d90b3bab9c4f957c5c428d247c9
+    m_Address: Oni_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: baf3881d31e5f0942a6c0041b326c7fc
+    m_Address: BlueOni_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ebd039f45de7d9345bcacac9f89e7b96
+    m_Address: Succubus_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b304b3d59127a5845b907249bc37cfec
+    m_Address: Rabbit_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dc5e9e1a26e2f1e4095bb8ebc58c33ac
+    m_Address: Angel_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3dc68a5699fa27e47abcfcb62e2b607d
+    m_Address: KaminariSama_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 531285c35a54bc649a1a6e6ba80dbab1
+    m_Address: Pigeon_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: abfa61155c506414d9c7d4fd162c7411
+    m_Address: Horse_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3a930043ebf55b547a72802f181c393a
+    m_Address: Magician_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a57c6d101077c8941876fdedb796905b
+    m_Address: Alien_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bb1b50933fc40914b9e6f3fc0dbd8c45
+    m_Address: Crab_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0dc48c7dbbb32444d8ac9e343550e2f8
+    m_Address: Graffe_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0f8a96c952664714189c132b4a880c05
+    m_Address: Police_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c074f9e638cb1ca439f8ebe508cb8c93
+    m_Address: SwnoMan_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f63377349b8be4a44a77f56224cc94c6
+    m_Address: Zombie_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6e29c4d8ad607b646aac2946b5c642fc
+    m_Address: Death_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e1294458004031d4f93cfe4c9525e30e
+    m_Address: YukiOnna_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: d1e8c5591e66e214eb8005d168294804
+    m_Address: Enma_Arms
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Arms
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9979af130630cb948981e6fc3be85c1d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e54a834a71c565b45a70cef6d0b6acf8, type: 2}
+    - {fileID: 11400000, guid: 2d861618751451d43b76bf3384b53320, type: 2}

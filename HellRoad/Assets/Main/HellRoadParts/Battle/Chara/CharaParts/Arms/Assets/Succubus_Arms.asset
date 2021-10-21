@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57d8646940a795246b2f60d022238171, type: 3}
+  m_Name: Succubus_Arms
+  m_EditorClassIdentifier: 
+  info:
+    kind: 27
+    name: "\u30B5\u30AD\u30E5\u30D0\u30B9\u306E\u8155"
+    about: 
+    status:
+      parameters:
+      - type: 2
+        value: 7
+      - type: 3
+        value: 2
+    usableSkills: 06000000
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    armsType: 0
+    leftArms:
+    - {fileID: -5563731248844459646, guid: 856fccf7c25901046a363c159390386b, type: 3}
+    - {fileID: 9182232860400103807, guid: 856fccf7c25901046a363c159390386b, type: 3}
+    rightArms:
+    - {fileID: 95995168566192741, guid: 856fccf7c25901046a363c159390386b, type: 3}
+    - {fileID: -8810189888877281327, guid: 856fccf7c25901046a363c159390386b, type: 3}
+    leftArm_2_Seams: {x: -3, y: -8}
+    rightArm_2_Seams: {x: 5, y: -8}

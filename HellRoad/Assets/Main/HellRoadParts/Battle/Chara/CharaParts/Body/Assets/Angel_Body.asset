@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af463ea95e916743a2078f39977358f, type: 3}
+  m_Name: Angel_Body
+  m_EditorClassIdentifier: 
+  info:
+    kind: 34
+    name: "\u5929\u4F7F\u306E\u4F53"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 35
+      - type: 2
+        value: 1
+      - type: 3
+        value: 1
+      - type: 4
+        value: 1
+      - type: 5
+        value: 1
+      - type: 6
+        value: 1
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    body: {fileID: 6976319355473065876, guid: ae90111f0a708cf40bfec19291956fd2, type: 3}
+    headSeams: {x: -2, y: 22}
+    leftArmSeams: {x: -4, y: 19}
+    rightArm_Seams: {x: 6, y: 18}
+    leftLeg_Seams: {x: -2, y: 0}
+    rightLeg_Seams: {x: 5, y: 0}
+    zIndex: 0
+    backBody: {fileID: 4348382926895267667, guid: ae90111f0a708cf40bfec19291956fd2, type: 3}

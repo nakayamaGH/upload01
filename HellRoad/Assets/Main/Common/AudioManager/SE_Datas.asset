@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1868e8817e21fcf4d9ec17f46c9138e6, type: 3}
+  m_Name: SE_Datas
+  m_EditorClassIdentifier: 
+  datas:
+  - name: DiselectMenu
+    clip: {fileID: 8300000, guid: f2bdd8e258bd5e843b877d9ee3352c38, type: 3}
+  - name: DecideMenu
+    clip: {fileID: 8300000, guid: 69e35be36a28f8042bd6d06bdc576694, type: 3}
+  - name: CancelMenu
+    clip: {fileID: 8300000, guid: 46bf0268fb460bd4796e91132e490ce6, type: 3}
+  - name: BattleStart
+    clip: {fileID: 8300000, guid: 84abf5b3fad6e8f4f8ea1a458a0e6b23, type: 3}
+  - name: Jump
+    clip: {fileID: 8300000, guid: a6f5b867250754e43b04582f838dfe31, type: 3}
+  - name: PunchMove
+    clip: {fileID: 8300000, guid: 46ef5a4c60a47a5498ac1c462772e3fe, type: 3}
+  - name: BlowAway
+    clip: {fileID: 8300000, guid: 83ba3dcabf955444885f81a75fd9cfaa, type: 3}
+  - name: Damage
+    clip: {fileID: 8300000, guid: dc6233b83fec02e4a85bf77b1932dde4, type: 3}
+  - name: Punch
+    clip: {fileID: 8300000, guid: a6f5b867250754e43b04582f838dfe31, type: 3}
+  - name: TakeAwayParts
+    clip: {fileID: 8300000, guid: da041f0177d2478478dd7733d2a9fbe1, type: 3}
+  - name: Cannot
+    clip: {fileID: 8300000, guid: 0e19a530c8b66a345b2111113ec7779d, type: 3}
+  - name: MagicWave
+    clip: {fileID: 8300000, guid: 06c6648b23b00b14b8d7b8e8cc52515b, type: 3}
+  - name: Shakin_1
+    clip: {fileID: 8300000, guid: 64f24af00e3de934da8b66c8614fbc93, type: 3}
+  - name: Shakin_2
+    clip: {fileID: 8300000, guid: e918a3d2243180a45aefa6a869df8414, type: 3}
+  - name: Shakin_3
+    clip: {fileID: 8300000, guid: 170a37debbe6a964191c2eb78a1b6c41, type: 3}
+  - name: Hit_1
+    clip: {fileID: 8300000, guid: 9f49ef078592e2b4b8978d77ae6a1ba7, type: 3}
+  - name: Hit_2
+    clip: {fileID: 8300000, guid: 54773b92b40e9a54db5524224ac3d31d, type: 3}
+  - name: Hit_3
+    clip: {fileID: 8300000, guid: cf674adef7325ca49852e568d5e45505, type: 3}
+  - name: Byun
+    clip: {fileID: 8300000, guid: 994ba149eec35954798c4f664b0ec5eb, type: 3}
+  - name: Bomb_1
+    clip: {fileID: 8300000, guid: 770c31990fbaa16428f66409e904c3fb, type: 3}
+  - name: Bomb_2
+    clip: {fileID: 8300000, guid: 59c1924d99ceea64980e9c253a0e4e03, type: 3}
+  - name: Button_1
+    clip: {fileID: 8300000, guid: 28d94d8aace74b741a452e5ca702c40d, type: 3}
+  - name: Fire_1
+    clip: {fileID: 8300000, guid: 2ef4a813e1437e04387009130b1a0470, type: 3}
+  - name: Woman_Scream
+    clip: {fileID: 8300000, guid: ba95aba98b0a52a4c9f3bcacc85efb09, type: 3}
+  - name: Attention
+    clip: {fileID: 8300000, guid: f7736a7043c365e4f8191377643fe1a2, type: 3}
+  - name: Drain
+    clip: {fileID: 8300000, guid: 38a8826ed95478242a27c257ac029a17, type: 3}
+  - name: Heal
+    clip: {fileID: 8300000, guid: 5a1f2a92cfd20ae4eb7806b4175a1816, type: 3}

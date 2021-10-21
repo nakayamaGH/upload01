@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2cb6e75c8f7e05468a1fdbbab962cfc, type: 3}
+  m_Name: ClearTest_Map
+  m_EditorClassIdentifier: 
+  classifyRooms:
+  - roomType: 0
+    rooms:
+    - {fileID: 11400000, guid: eaefa85b473158a499199000510f329d, type: 2}
+    min: 1
+    max: 1
+  mapStatus:
+    id: 3
+    wallTile: {fileID: 11400000, guid: 6b53bd67ff91ff141b9835e0f3ebb346, type: 2}
+    platformTile: {fileID: 11400000, guid: e9b314c45e2a00240b44bbc740e63aa6, type: 2}
+    ladderTile: {fileID: 11400000, guid: 238ef347828581a41b786b6db552ca70, type: 2}
+    filledAll: 1
+    background: {fileID: 8385073746087661804, guid: 7e83bac7891bb7745a46652b11ed0309, type: 3}
+    goals: []
+    ornaments:
+    - {fileID: 7728085571431190825, guid: a1e34995d318822418d21058440b2f37, type: 3}
+    mapBGM: 
+    battleBGM: 
+    encountEnemies:
+    - {fileID: 11400000, guid: d70d1b2c3d2ff0c46a9a0a2d1262d3c1, type: 2}
+    abandonedEnemies:
+    - {fileID: 11400000, guid: d70d1b2c3d2ff0c46a9a0a2d1262d3c1, type: 2}
+    - {fileID: 11400000, guid: d70d1b2c3d2ff0c46a9a0a2d1262d3c1, type: 2}
+    - {fileID: 11400000, guid: d70d1b2c3d2ff0c46a9a0a2d1262d3c1, type: 2}
+    - {fileID: 11400000, guid: d70d1b2c3d2ff0c46a9a0a2d1262d3c1, type: 2}

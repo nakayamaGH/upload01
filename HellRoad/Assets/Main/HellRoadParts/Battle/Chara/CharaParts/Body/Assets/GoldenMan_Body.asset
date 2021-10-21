@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af463ea95e916743a2078f39977358f, type: 3}
+  m_Name: GoldenMan_Body
+  m_EditorClassIdentifier: 
+  info:
+    kind: 10
+    name: "\u91D1\u8272\u306E\u4F53"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 50
+      - type: 3
+        value: 4
+    usableSkills: 
+    passiveSkills: 00000000
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    body: {fileID: -9004209598744025728, guid: 029f1ab5e707ee84aadd53396f036bd9, type: 3}
+    headSeams: {x: -1, y: 39.5}
+    leftArmSeams: {x: -15.5, y: 31}
+    rightArm_Seams: {x: 20.5, y: 31}
+    leftLeg_Seams: {x: -4.5, y: -2.5}
+    rightLeg_Seams: {x: 6.5, y: -3}
+    zIndex: 0
+    backBody: {fileID: 0}

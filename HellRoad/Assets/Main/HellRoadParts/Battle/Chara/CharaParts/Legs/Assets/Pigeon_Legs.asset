@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1958eeea2c6560b46890b0bc6ed8b899, type: 3}
+  m_Name: Pigeon_Legs
+  m_EditorClassIdentifier: 
+  info:
+    kind: 44
+    name: "\u30CF\u30C8\u306E\u8DB3"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 3
+      - type: 2
+        value: 7
+      - type: 6
+        value: 10
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    legsType: 0
+    leftLegs:
+    - {fileID: 9046215376232531194, guid: 69c18a84ede567544bf96e05b71bfdcd, type: 3}
+    - {fileID: 6505781585981187687, guid: 69c18a84ede567544bf96e05b71bfdcd, type: 3}
+    - {fileID: 7945509868782824717, guid: 69c18a84ede567544bf96e05b71bfdcd, type: 3}
+    rightLegs:
+    - {fileID: -4462544756989265850, guid: 69c18a84ede567544bf96e05b71bfdcd, type: 3}
+    - {fileID: -2161084039442597646, guid: 69c18a84ede567544bf96e05b71bfdcd, type: 3}
+    - {fileID: 368401206472315151, guid: 69c18a84ede567544bf96e05b71bfdcd, type: 3}
+    leftLegs_2_Seams: {x: -1, y: -9}
+    leftLegs_3_Seams: {x: 0, y: -12}
+    rightLegs_2_Seams: {x: -1, y: -9}
+    rightLegs_3_Seams: {x: 0, y: -12}
+    legLength: 26.5

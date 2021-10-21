@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4af463ea95e916743a2078f39977358f, type: 3}
+  m_Name: Zombie_Body
+  m_EditorClassIdentifier: 
+  info:
+    kind: 74
+    name: "\u30BE\u30F3\u30D3\u306E\u4F53"
+    about: 
+    status:
+      parameters:
+      - type: 0
+        value: 25
+      - type: 2
+        value: 2
+      - type: 3
+        value: 4
+    usableSkills: 
+    passiveSkills: 
+    dropSoulAmount: 0
+    dropMeatAmount: 0
+    body: {fileID: -2741297246837535757, guid: 346a565bcad86b241a499b35995eebe6, type: 3}
+    headSeams: {x: -1, y: 21}
+    leftArmSeams: {x: -2, y: 17}
+    rightArm_Seams: {x: 7, y: 18}
+    leftLeg_Seams: {x: -3, y: 0}
+    rightLeg_Seams: {x: 5, y: 0}
+    zIndex: 0
+    backBody: {fileID: 0}
